@@ -1,0 +1,9 @@
+span{
+        background: -webkit-linear-gradient(left,#8456EC, #E87BF8);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
+.btn{
+    background: -webkit-linear-gradient(left,#8456EC, #E87BF8);
+        -webkit-background-clip: btn;
+}
